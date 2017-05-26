@@ -1,0 +1,22 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.text{
+    -fx-font-size: 15pt;
+	
+}
+#headFruit{
+	  -fx-font-size: 40pt;
+	  -fx-alignment: center;
+}
+
+#fruitgridPane{
+	-fx-background-color: white;
+}
+#fruitSelectorLabel{
+	 -fx-opacity: 1.0 ;
+}
+#fruitCombo{
+	-fx-opacity: 1.0; -fx-text-fill: black;
+}
+.combo-box:disabled, .combo-box:disabled > * {
+  -fx-opacity: 1.0 ;
+}
